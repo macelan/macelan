@@ -1,8 +1,4 @@
 
-@@ -9,10 +9,23 @@
-</p>
-<br><br>
-
 
 <br><br>
 ## 🛠 &nbsp;Tecnologias
